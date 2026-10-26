@@ -35,13 +35,13 @@
 
 <table>
   <tr>
-    <td align="center"><b>Pikachu</b><br><img src="assets/images/pikachu_page.png" alt="Pikachu page" width="200"></td>
-    <td align="center"><b>Charmander</b><br><img src="assets/images/charmander_page.png" alt="Charmander page" width="200"></td>
-    <td align="center"><b>Squirtle</b><br><img src="assets/images/squirtle_page.png" alt="Squirtle page" width="200"></td>
-    <td align="center"><b>Bulbasaur</b><br><img src="assets/images/bulbasaur_page.png" alt="Bulbasaur page" width="200"></td>
+    <td align="center"><b>Front Screen</b><br><img src="assets/images/pokemon_front_screen.png" alt="Front screen" width="200"></td>
+    <td align="center"><b>Front Screen 2</b><br><img src="assets/images/pokemon_front_screen-2.png" alt="Front screen 2" width="200"></td>
+    <td align="center"><b>Front Screen 3</b><br><img src="assets/images/pokemon_front_screen-3.png" alt="Front screen 3" width="200"></td>
+    <td align="center"><b>Front Screen 4</b><br><img src="assets/images/pokemon_front_screen-4.png" alt="Front screen 4" width="200"></td>
   </tr>
   <tr>
-    <td colspan="4" align="center"><b>Pokédex Dialog</b><br><img src="assets/images/pokemon_dialog.png" alt="Pokédex dialog" width="200"></td>
+    <td colspan="4" align="center"><b>Pokémon Card</b><br><img src="assets/images/pokemon_card-screen.png" alt="Pokémon card screen" width="200"></td>
   </tr>
 </table>
 
