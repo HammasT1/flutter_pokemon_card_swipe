@@ -6,6 +6,7 @@
 
 **A Flutter Pokémon showcase with liquid swipe transitions, animated Pokédex cards, type badges, and base-stat bars.**
 
+[![CI](https://github.com/HammasT1/flutter_pokemon_card_swipe/actions/workflows/ci.yml/badge.svg)](https://github.com/HammasT1/flutter_pokemon_card_swipe/actions/workflows/ci.yml)
 ![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-3.6+-0175C2?logo=dart&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-3DDC84?logo=android&logoColor=white)
@@ -65,6 +66,10 @@ flutter run
 ```
 
 In **VS Code**, pick your emulator in the status bar and press **F5** (or ▶ Run). The included `.vscode/launch.json` provides debug and profile configurations.
+
+### Download the APK
+
+Every push to `main` builds an APK, which you can download from the run's **Artifacts** on the [Actions](https://github.com/HammasT1/flutter_pokemon_card_swipe/actions) tab. Pushing a version tag (e.g. `v1.0.0`) publishes the APK on the [Releases](https://github.com/HammasT1/flutter_pokemon_card_swipe/releases) page.
 
 ## 🗂️ Project Structure
 
