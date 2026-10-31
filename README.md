@@ -18,6 +18,14 @@
 
 ---
 
+## 🎬 Preview
+
+<div align="center">
+
+<img src="assets/images/pokemon_flutter.gif" alt="Pokémon Swipe app preview" width="280">
+
+</div>
+
 ## ✨ Features
 
 | | Feature | Description |
